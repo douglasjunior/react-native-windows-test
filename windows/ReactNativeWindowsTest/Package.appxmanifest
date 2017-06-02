@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="3a27d79d-6d6e-46cb-9dfc-b1c93247ce0d"
+    Name="91dca635-be9b-48b1-b302-685ab51c5b88"
     Publisher="CN=publisher"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="3a27d79d-6d6e-46cb-9dfc-b1c93247ce0d" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="91dca635-be9b-48b1-b302-685ab51c5b88" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>ReactNativeWindowsTest</DisplayName>

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <ProjectGuid>{b3aa4f76-9125-4e9c-b535-86ff1ebb4628}</ProjectGuid>
+    <ProjectGuid>{9a3df954-501e-448c-b3e4-67ce43e0a127}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ReactNativeWindowsTest</RootNamespace>
